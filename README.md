@@ -1,7 +1,7 @@
 
 # Web Scraping IMDB Website 
 
-Extracting Data of Latest Top Rated Movies from IMDB Website 
+Extracting Data of Latest Top Rated Movies from IMDB Website using Beautiful Soup 
 
 
 
